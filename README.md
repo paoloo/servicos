@@ -13,7 +13,6 @@ Source do serviço de verificação de cpf decodificado de um app do iPhone. O l
 Exemplo de execução:
 ```bash
 $ ./c.sh 13326724691 14121947
-```
 horaConsulta = 20:49:31
 exception = None
 codigoRetorno = 00
@@ -30,6 +29,6 @@ codSituacaoCadastral = 0
 dataConsulta = 20/11/2015
 descSituacaoCadastral = REGULAR
 dataNascimento = 14/12/1947
-
+```
 
 
